@@ -1,0 +1,33 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Learn Python: Complete Python Programming Course",
+        "description": "Avinash Jain, The Codex"
+       
+      },
+      {
+        "id": 2,
+        "title": "Learning javaScript for Data Analysis and Visualization",
+        "description": "Jose Portilla"
+        
+      },
+      {
+        "id": 3,
+        "title": "PHP for Beginners - Learn Programming from scratch",
+        "description": "Edwin Diaz, Coding Faculty Solutions"
+        
+      },
+      {
+        "id": 4,
+        "title": "Learn Python: Python for Beginners",
+        "description": "Abrar Hussain"
+      },
+      {
+        "id": 5,
+        "title": "Python Beyond the Basics - Object-Oriented Programming",
+        "description": "Infinite Skills"
+      }
+    ]
+  }
+
